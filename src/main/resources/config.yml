@@ -1,0 +1,15 @@
+price:
+  max: 1000000
+  min: 1000
+
+  winMultiplier: 2
+
+bot:
+  winRate: 0.9
+
+mysql:
+  host: localhost
+  port: 3306
+  pass: pass
+  user: root
+  db: man10_rps

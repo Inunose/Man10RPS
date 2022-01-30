@@ -1,0 +1,7 @@
+name: Man10RPS
+version: '${project.version}'
+main: com.inunose.man10rps.Man10RPS
+api-version: 1.17
+
+commands:
+  mrps:
